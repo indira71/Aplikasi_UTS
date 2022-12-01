@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Aplikasi_UTS</string>
+
+    <string-array name="data_name">
+        <item>Dr. Indira Yulianti</item>
+        <item>Dr. Wahid Radikal Akhlak</item>
+        <item>Dr. Felisya Brigita Tania Wong</item>
+        <item>Dr. Melsy Patricia Anggelina. E</item>
+        <item>Dr. Edward Crysanthus Jefta Geofrey</item>
+        <item>Dr. Vidya Az Zahra</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Sp. Jiwa</item>
+        <item>Sp. Patologi Klinik</item>
+        <item>Sp. Bedah Saraf</item>
+        <item>Sp. Pediatri</item>
+        <item>Sp. Bedah Onkologi</item>
+        <item>Sp. Saraf</item>
+
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/d</item>
+
+    </array>
+</resources>
